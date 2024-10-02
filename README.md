@@ -4,6 +4,8 @@
 <a><img src="https://img.shields.io/github/languages/code-size/sodabyte/nvim?colorA=363a4f&colorB=b4befe&style=for-the-badge"></a>
 </p>
 
+<img src="./screenshot/screenshot.jpg" alt="Screenshot" />
+
 <p align="center">
 this is my personal neovim configuration written in lua with minimal configuration.
 </p>
